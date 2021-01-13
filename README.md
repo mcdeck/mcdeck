@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+  - Super secret projects
+- 🌱 I’m currently learning ...
+  - AWS & Terraform
+  - Dutch & Japanese
+- 💬 Ask me about ...
+  - Python
+  - Django
+  - MQTT
+  - Jenkins
+  - CI/CD
+  - Smarthome
+- 📫 How to reach me: ...
+  - ✉ oliver@van-porten.de
+  - 🏠 https://www.van-porten.de
