@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
   - Super secret projects
 - 🌱 I’m currently learning ...
-  - AWS & Terraform
+  - AWS
+  - React
+  - Terraform
   - Dutch & Japanese
 - 💬 Ask me about ...
   - Python
