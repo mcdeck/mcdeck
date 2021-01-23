@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
   - AWS
   - React
+  - Symfony
   - Terraform
   - Dutch & Japanese
 - 💬 Ask me about ...
