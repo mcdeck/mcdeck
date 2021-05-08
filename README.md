@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
   - Super secret projects
 - 🌱 I’m currently learning ...
-  - AWS
   - React
-  - Symfony
-  - Terraform
-  - Dutch & Japanese
+  - Dutch
+- 👯 I’m looking to collaborate on ...
+  -  anything around smarthome, machine learning, data science
+  -  or any other cool project you may have
 - 💬 Ask me about ...
   - Python
   - Django
